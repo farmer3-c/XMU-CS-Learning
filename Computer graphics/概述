@@ -1,0 +1,23 @@
+计算机图形学是研究怎样利用计算机来显示、生成和处理图形的原理、方法和技术的一门学科
+
+计算机图形学的主要内容
+3D几何模型
+
+1. 建模
+Modeling
+– 构建三维的几何模型
+2. 绘制
+Rendering
+– 将模型真实性的显示在屏幕上
+3. 动画
+Animation
+– 模拟真实世界的物理运动
+4. 交互
+Interaction
+– 人与电脑的“对话”（意图表达）
+
+
+参考书
+• 黄华，张磊. 现代计算机图形学基础. 清华大学出版社
+• Fundamentals of Computer Graphics. Steve Marschner;Peter Shirley. 2022
+• Guha, S., (2018). Computer Graphics Through OpenGL. 3rd Edition, CRC Press. （http://www.sumantaguha.com/）
